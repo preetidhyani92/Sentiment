@@ -67,3 +67,6 @@ Train model using deep learning (LSTM or BERT)
 Add real-time sentiment analysis using Twitter API
 
 Build a Streamlit web app for live text sentiment prediction
+
+# OUTPUT
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/76f32913-bf06-41ba-9ec1-e77d6592cca6" />
