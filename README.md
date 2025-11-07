@@ -1,6 +1,20 @@
 # Sentiment
 SENTIMENTANALYSIS
 
+Company: CODTECH IT SOLUTIONS
+
+NAME:PREETI DHYANI 
+
+INTERN ID: CT12DZ501
+
+DOMAIN: DATA ANALYST
+
+DURATION: 12 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
+# DESCRIPTION
+
 💬 Sentiment Analysis using Python (Text Classification)
 
 This project performs Sentiment Analysis on textual data to classify whether a given statement, tweet, or review is positive, negative, or neutral. It demonstrates the use of Natural Language Processing (NLP) techniques and machine learning models to analyze human emotions through text.
