@@ -45,3 +45,11 @@ Detects emotional tone (positive, negative, neutral) from text
 Visual representation of sentiment trends
 
 Demonstrates text classification in a simple, beginner-friendly format
+
+🧠 Future Scope
+
+Train model using deep learning (LSTM or BERT)
+
+Add real-time sentiment analysis using Twitter API
+
+Build a Streamlit web app for live text sentiment prediction
